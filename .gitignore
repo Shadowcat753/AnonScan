@@ -1,3 +1,5 @@
 scan_results_*.txt
 *.log
 targets.txt
+first_script.sh
+while.sh
