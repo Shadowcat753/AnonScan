@@ -1,4 +1,4 @@
-# AnonScan v1.0 😈
+# AnonScan v1.1 😈
 
 **AnonScan** is an automated Nmap scanning tool designed for Kali Linux that routes target reconnaissance over the Tor network using Proxychains.
 
